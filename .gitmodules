@@ -2,6 +2,18 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "BioGeoBEARS"]
+	path = BioGeoBEARS
+	url = https://github.com/nmatzke/BioGeoBEARS
+	registered = false
 [submodule "DAISIEprep"]
 	path = DAISIEprep
 	url = https://github.com/joshwlambert/daisieprep
+[submodule "cladoRcpp"]
+	path = cladoRcpp
+	url = https://github.com/nmatzke/cladoRcpp
+	registered = false
+[submodule "rexpokit"]
+	path = rexpokit
+	url = https://github.com/nmatzke/rexpokit
+	registered = false
